@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "stations",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::26986" } },
+"features": [
+{ "type": "Feature", "properties": { "Station_na": "Alewife", "rail_line": "red", "station_la": 42.395428, "station_lo": -71.141854, "total_rate": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 229487.336095564212883, 905052.766638194443658 ] } },
+{ "type": "Feature", "properties": { "Station_na": "Braintree", "rail_line": "red", "station_la": 42.207148, "station_lo": -71.000356, "total_rate": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 241259.711177412449615, 884198.421821205178276 ] } },
+{ "type": "Feature", "properties": { "Station_na": "Quincy Adams", "rail_line": "red", "station_la": 42.232866, "station_lo": -71.008607, "total_rate": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 240561.906881736882497, 887051.02004972321447 ] } },
+{ "type": "Feature", "properties": { "Station_na": "RiverSide", "rail_line": "green", "station_la": 42.33735, "station_lo": -71.252645, "total_rate": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 220384.333146580465836, 898569.273425532970577 ] } },
+{ "type": "Feature", "properties": { "Station_na": "Woodland", "rail_line": "green", "station_la": 42.332084, "station_lo": -71.241083, "total_rate": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 221338.91735088583664, 897987.178076150012203 ] } },
+{ "type": "Feature", "properties": { "Station_na": "Wonderland", "rail_line": "blue", "station_la": 42.412925, "station_lo": -70.992498, "total_rate": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 241772.570760864735348, 907058.682522428687662 ] } },
+{ "type": "Feature", "properties": { "Station_na": "Anderson/Woburn", "rail_line": "commuter", "station_la": 42.517359, "station_lo": -71.144218, "total_rate": 14.0 }, "geometry": { "type": "Point", "coordinates": [ 229236.182726039114641, 918595.849919459898956 ] } },
+{ "type": "Feature", "properties": { "Station_na": "Ayer", "rail_line": "commuter", "station_la": 42.559276, "station_lo": -71.589755, "total_rate": 8.0 }, "geometry": { "type": "Point", "coordinates": [ 192629.365338993957266, 923194.978008567122743 ] } },
+{ "type": "Feature", "properties": { "Station_na": "Beverly", "rail_line": "commuter", "station_la": 42.547284, "station_lo": -70.885622, "total_rate": 4.0 }, "geometry": { "type": "Point", "coordinates": [ 250461.87400369727402, 922040.773223780095577 ] } },
+{ "type": "Feature", "properties": { "Station_na": "Lynn", "rail_line": "commuter", "station_la": 42.462335, "station_lo": -70.945784, "total_rate": 4.0 }, "geometry": { "type": "Point", "coordinates": [ 245581.886301068239845, 912570.91101263964083 ] } },
+{ "type": "Feature", "properties": { "Station_na": "Route 128", "rail_line": "commuter", "station_la": 42.211172, "station_lo": -71.148332, "total_rate": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 229038.396262005291646, 884584.375115267699584 ] } },
+{ "type": "Feature", "properties": { "Station_na": "Salem", "rail_line": "commuter", "station_la": 42.52462, "station_lo": -70.896196, "total_rate": 4.0 }, "geometry": { "type": "Point", "coordinates": [ 249611.225626704457682, 919517.077438584878109 ] } },
+{ "type": "Feature", "properties": { "Station_na": "South Station", "rail_line": "red", "station_la": 42.350122, "station_lo": -71.055309, "total_rate": 20.0 }, "geometry": { "type": "Point", "coordinates": [ 236639.029839953494957, 900053.921904537593946 ] } }
+]
+}
