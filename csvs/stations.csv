@@ -1,0 +1,15 @@
+station_id,station_name,rail_line,station_lat,station_long,parking_fee
+1,Alewife,red,42.395428,-71.141854,6.00
+2,Braintree,red,42.207148,-71.000356,6.00
+3,Quincy Adams,red,42.232866,-71.008607,6.00
+4,RiverSide,green,42.337350,-71.252645,6.00
+5,Woodland,green,42.332084,-71.241083,6.00
+6,Wonderland,blue,42.412925,-70.992498,6.00
+7,Anderson/Woburn,commuter,42.517359,-71.144218,14.00
+8,Ayer,commuter,42.559276,-71.589755,8.00
+9,Beverly,commuter,42.547284,-70.885622,4.00
+10,Lynn,commuter,42.462335,-70.945784,4.00
+11,Route 128,commuter,42.211172,-71.148332,6.00
+12,Salem,commuter,42.524620,-70.896196,4.00
+13,South Station,red,42.350122,-71.055309,20.00
+14,Maverick,blue,42.369119,-71.039530,
