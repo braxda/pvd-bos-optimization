@@ -27,3 +27,12 @@ CREATE TABLE subway_rides (
     CONSTRAINT fk_start_station FOREIGN KEY (start_station_id) REFERENCES stations(station_id),
     CONSTRAINT fk_end_station FOREIGN KEY (end_station_id) REFERENCES stations(station_id)
 );
+
+CREATE TABLE efficiency_scores (
+    efficiency_id SERIAL PRIMARY KEY,
+    subway_id INT NOT NULL,
+    total_trip_time_minutes NUMERIC(10,2),
+    total_cost NUMERIC(10,2),
+    total_score NUMERIC(10,3),
+    normalized_score NUMERIC(10,2)
+);
